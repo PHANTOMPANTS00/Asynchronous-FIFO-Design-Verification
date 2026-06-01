@@ -46,42 +46,5 @@ Modern semiconductor engineering prioritizes automated validation. This project 
 The simulation was executed using **AMD Xilinx Vivado (xsim)**. The testbench ran to absolute completion (`$finish called at 2487500 ps`), passing all random data blocks and stress scenarios.
 
 ### Tcl Console Output Log
-```text
---- Starting Async FIFO Automated Test ---
-[388000] PASS: Read e3 successfully.
-[438000] PASS: Read 0b successfully.
-[488000] PASS: Read d4 successfully.
-[538000] PASS: Read f6 successfully.
-[588000] PASS: Read c5 successfully.
-[638000] PASS: Read c1 successfully.
-[688000] PASS: Read 43 successfully.
-[738000] PASS: Read a8 successfully.
-[788000] PASS: Read cd successfully.
-[863000] PASS: Read 17 successfully.
-[938000] PASS: Read 9f successfully.
-[1013000] PASS: Read 92 successfully.
-[1088000] PASS: Read d8 successfully.
-[1163000] PASS: Read e2 successfully.
-WARNING: Tried to write to full FIFO
-WARNING: Tried to write to full FIFO
-[1238000] PASS: Read a3 successfully.
-WARNING: Tried to write to full FIFO
-[1313000] PASS: Read ef successfully.
-WARNING: Tried to write to full FIFO
-[1388000] PASS: Read 38 successfully.
-[1463000] PASS: Read cf successfully.
-[1538000] PASS: Read e2 successfully.
-[1613000] PASS: Read 48 successfully.
-[1688000] PASS: Read 2d successfully.
-[1763000] PASS: Read e2 successfully.
-[1838000] PASS: Read 37 successfully.
-[1913000] PASS: Read 66 successfully.
-[1988000] PASS: Read b1 successfully.
-[2063000] PASS: Read 19 successfully.
-[2138000] PASS: Read ae successfully.
-[2213000] PASS: Read de successfully.
-[2288000] PASS: Read fb successfully.
-[2338000] PASS: Read 44 successfully.
-[2388000] PASS: Read f3 successfully.
---- Test Completed. If no FAILS printed, design is solid! ---
-$finish called at time : 2487500 ps
+<img width="2560" height="1528" alt="Screenshot 2026-06-01 175243" src="https://github.com/user-attachments/assets/1f50e76e-d23d-4e6d-92da-6de334573aaa" />
+
