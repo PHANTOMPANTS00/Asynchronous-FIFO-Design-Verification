@@ -23,6 +23,11 @@ The hardware architecture follows best-in-class digital design practices and is 
 *   **Glitch-Free Flag Generation:** Full and empty flags are registered within their respective clock domains to ensure optimal Static Timing Analysis (STA) clean paths.
 *   **Parameterized Design:** Configurable data word size (`DSIZE`) and address bits/memory depth (`ADDRSIZE`).
 
+### Schematic
+<img width="2560" height="1528" alt="Async_FIFO_RTL" src="https://github.com/user-attachments/assets/995f96c3-2daa-4a47-b1f9-d178e08769b5" />
+
+
+
 ---
 
 ## 🧪 Verification Strategy & Testbench
